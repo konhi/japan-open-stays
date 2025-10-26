@@ -1,0 +1,5 @@
+#!/bin/sh
+pnpm -r exec tsc --noEmit
+pnpm exec eslint --fix .
+pnpm exec prettier --write .
+pnpm exec knip

@@ -1,0 +1,7 @@
+{
+  "workspaces": {
+    ".": {
+      "entry": ["apps/*/src/main.ts", "apps/web/app/**/*.tsx"]
+    }
+  }
+}
