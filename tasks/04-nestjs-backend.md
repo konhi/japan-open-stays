@@ -468,6 +468,3 @@ curl http://localhost:3000/api/locations
 ## Next Task
 
 Task 05: Deploy NestJS to ECS Fargate
-
-
-

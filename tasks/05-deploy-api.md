@@ -301,6 +301,3 @@ aws elbv2 describe-target-health \
 ## Next Task
 
 Task 06: Implement Crawlee scraper with AI integration
-
-
-

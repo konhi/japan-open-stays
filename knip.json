@@ -1,7 +1,7 @@
 {
   "workspaces": {
     ".": {
-      "entry": ["apps/*/src/main.ts", "apps/web/app/**/*.tsx"]
+      "entry": ["apps/weekly-mansion-com-scraper/src/main.ts"]
     }
   }
 }

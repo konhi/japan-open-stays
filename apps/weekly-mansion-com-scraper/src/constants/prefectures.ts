@@ -141,5 +141,3 @@ export const PREFECTURES = [
     id: 'yamanashi',
   },
 ] as const
-
-export const ENABLED_PREFECTURES = ['saitama'] satisfies (typeof PREFECTURES)[number]['id'][]

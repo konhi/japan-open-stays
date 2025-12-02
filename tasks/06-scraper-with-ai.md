@@ -697,6 +697,3 @@ pnpm exec ts-node src/test.ts
 ## Next Task
 
 Task 07: Deploy scraper to Apify and run full scrape
-
-
-
