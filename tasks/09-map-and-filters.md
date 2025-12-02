@@ -621,3 +621,6 @@ function getTotalCost(listing: Listing, duration: string): number {
 ## Next Task
 
 Task 10: Create listing detail pages
+
+
+

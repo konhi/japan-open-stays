@@ -367,3 +367,6 @@ cdk deploy JapanOpenStaysDatabase
 ## Next Task
 
 Task 04: Implement NestJS backend
+
+
+

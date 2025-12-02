@@ -1,0 +1,13 @@
+{
+  "actorSpecification": 1,
+  "name": "weekly-mansion-com-scraper",
+  "title": "Weekly Mansion Scraper",
+  "description": "Scrapes apartment listings from weekly-mansion.com for Japan Open Stays",
+  "version": "0.1",
+  "buildTag": "latest",
+  "meta": {
+    "templateId": "ts-crawlee-cheerio"
+  },
+  "input": "./input_schema.json",
+  "dockerfile": "../Dockerfile"
+}

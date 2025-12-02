@@ -362,3 +362,6 @@ const crawler = new CheerioCrawler({
 ## Next Task
 
 Task 08: Setup Next.js 16 frontend with PPR and React Compiler
+
+
+

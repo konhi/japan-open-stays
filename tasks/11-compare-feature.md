@@ -519,3 +519,6 @@ console.log(getComparison())
 ## Next Task
 
 Task 12: Deploy to AWS Amplify
+
+
+

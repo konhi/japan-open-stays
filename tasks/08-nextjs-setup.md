@@ -518,3 +518,6 @@ pnpm type-check
 ## Next Task
 
 Task 09: Build map view with client-side filtering
+
+
+
